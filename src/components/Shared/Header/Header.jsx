@@ -5,7 +5,7 @@ const Header = () => {
     <>
       <section>
         <div className="bg-[#372727] h-16 w-full">
-          <div>
+          <div className="flex">
             <div>
               <img src={logo} alt="" />
             </div>
